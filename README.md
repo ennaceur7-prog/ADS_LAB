@@ -1,1 +1,1 @@
-Test
+Test         | Today's lab
