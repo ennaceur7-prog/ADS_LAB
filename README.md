@@ -4,3 +4,4 @@
 |  2  | Linked List | ✅ Done | 25_10_9-Task  |
 |  3  | Stack       | ✅ Done | 25_10_23-Task |
 |  4  | Queue       | ✅ Done | 25_11_06-Task |
+|  5  | Binary Tree | Ongoing | 25_11_13-Task |
